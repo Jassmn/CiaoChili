@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,23 +15,31 @@
             margin-top: 20px;
         }
         .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 10px;
+            display: flex;
+            flex-direction: column; /* Stacks images vertically */
+            align-items: center; /* Center-align images */
+            gap: 20px; /* Space between images */
             padding: 20px;
-            max-width: 1200px;
+            max-width: 800px; /* Adjust the width as needed */
             margin: 0 auto;
         }
         .gallery img {
-            width: 100%;
+            width: 100%; /* Make the images responsive */
+            max-width: 600px; /* Set a max-width for images */
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease-in-out;
         }
         .gallery img:hover {
-            transform: scale(1.05);
+            transform: scale(1.05); /* Hover effect */
         }
     </style>
+</head> 
+
+</body>
+</html>
+
+
 </head>
 <body>
 
