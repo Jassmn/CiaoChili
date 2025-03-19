@@ -47,10 +47,10 @@
 
  <div class="gallery">
       
-<img src="https://github.com/Jassmn/CiaoChili/blob/main/path/to/IMMG_0001.jpeg?raw=true" alt="Image 1">
+<img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0001.jpg?raw=true" alt="Image 1">
 
       
-<img src="https://github.com/Jassmn/CiaoChili/blob/main/path/to/IMMG_0002.jpeg?raw=true" alt="Image 2">
+<img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0002.jpg?raw=true" alt="Image 2">
 
   
  <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0003.jpeg?raw=true" alt="Image 3">
