@@ -36,38 +36,20 @@
     </style>
 </head> 
 
+</body> 
+</html>
+
+<div class="gallery">
+<img src="/workspaces/CiaoChili/IMG_0001 jpeg" alt="Image 1">
+<img src="/workspaces/CiaoChili/IMG_0002.jpeg" alt="Image 2">
+<img src="/workspaces/CiaoChili/IMG_0003.jpeg" alt="Image 3">
+<img src="/workspaces/CiaoChili/IMG_0004.jpeg" alt="Image 4">
+<img src="/workspaces/CiaoChili/IMG_0005. jpeg" alt="Image 5">
+<img src="/workspaces/CiaoChili/IMG_0011.jpeg" alt="Image 11">
+<img src="/workspaces/CiaoChili/IMG_0012.jpeg" alt="Image 12">
+<img src="/workspaces/CiaoChili/IMG_0013.jpeg" alt="Image 13">
+<img src="/workspaces/CiaoChili/IMG_0014-jpeg" alt="Image 14">
+
 </body>
 </html>
 
-
-</head>
-<body>
-
- <h1>My Image Gallery</h1>
-
- <div class="gallery">
-      
-<img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0001.jpg?raw=true" alt="Image 1">
-
-      
-<img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0002.jpg?raw=true" alt="Image 2">
-
-  
- <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0003.jpeg?raw=true" alt="Image 3">
-
-     
- <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0004.jpeg?raw=true" alt="Image 4">
-
-  <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0005.jpeg?raw=true" alt="Image 5">
-
-   <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0006.jpeg?raw=true" alt="Image 6">
-
-  <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0007.jpeg?raw=true" alt="Image 7">
-
- <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0008.jpeg?raw=true" alt="Image 8">
-
- <img src="https://github.com/Jassmn/CiaoChili/blob/main/IMMG_0009.jpeg?raw=true" alt="Image 9">
-    </div>
-
-</body>
-</html>
